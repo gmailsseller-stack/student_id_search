@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Web page for searching student passwords",
   "scripts": {
-    "start": "npx serve . -p 3000"
+     "start": "npx serve . -l $PORT"
   },
   "dependencies": {
     "serve": "^14.2.0"
