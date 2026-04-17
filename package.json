@@ -1,0 +1,11 @@
+{
+  "name": "student-search-web",
+  "version": "1.0.0",
+  "description": "Web page for searching student passwords",
+  "scripts": {
+    "start": "npx serve . -p 3000"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
